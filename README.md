@@ -1,6 +1,6 @@
 # Introduction-to-Statistical-Learning-Edition-2
 
-This repository contains the solutions of the exercises found within this book (please see https://www.statlearning.com/ for more information).
+This repository contains solutions for the exercises found within this book (please see https://www.statlearning.com/ for more information).
 
 ISL2 is centered around the introduction of numerous machine learning concepts (e.g., Support Vector Machines / Deep Learning) and is comprised of 13 chapters; each of which comes with its own overarching R-markdown file.
 
