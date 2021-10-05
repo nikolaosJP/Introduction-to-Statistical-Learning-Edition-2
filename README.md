@@ -2,7 +2,7 @@
 
 This repository contains solutions for the exercises found within this book (please see https://www.statlearning.com/ for more information).
 
-ISL2 is centered around the introduction of numerous machine learning concepts (e.g., Support Vector Machines / Deep Learning) and is comprised of 13 chapters; each of which comes with its own overarching R-markdown file.
+ISL2 is centered around the introduction of numerous machine learning concepts (e.g., Support Vector Machines / Deep Learning) and is comprised of 13 chapters; each of which comes with its own overarching R file.
 
 The solutions encompassed within this repository were written in RStudio (see https://www.rstudio.com/) which is an integrated development environment (IDE) for the programming language R.
 
